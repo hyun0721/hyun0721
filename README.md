@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=90)
 
-<div><h2>Welcome to DongHyun's GitHub</h2></div>
+<div><h1>Welcome to DongHyun's GitHub 👋</h1></div>
 
 
 
