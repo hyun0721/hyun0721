@@ -28,6 +28,9 @@
 ### 💾 DataBase
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
+## 📚 Experienced
+![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
