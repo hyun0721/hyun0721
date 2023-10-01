@@ -2,13 +2,15 @@
 
 <div><h1>Welcome to DongHyun's GitHub 👋</h1></div>
 
-
+<br>
 
 ## 📨 Contact
-| 📧 Email  | kdh940721@gmail.com |
-| --- | --- |
-| 📰 Blog | https://itteamb.blogspot.com/ |
+| **📧 Email** | **[kdh940721@gmail.com](mailto:kdh940721@gmail.com)** |
+| :--- | :--- |
+| **📌 Blog** | **[https://itteamb.blogspot.com/](https://itteamb.blogspot.com/)** |
+| **📰 Profile** | **[notion](https://donghyun721.notion.site/DongHyun-Kim-bf85f8b4664a40c990949cda1ad6f01e?pvs=4)** |
 
+<br>
 
 ## 🛠️ Skills
 
@@ -28,7 +30,7 @@
 ### 💾 DataBase
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-## 📚 Experienced
+### 📚 Experienced
 ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
